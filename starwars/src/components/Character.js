@@ -1,7 +1,7 @@
 // Write your Character component here
 import React from 'react'
 import { Container } from '../components/styles'
-
+import styled from 'styled-components'
 export default function Character(props) {
     console.log(props)
     const {
